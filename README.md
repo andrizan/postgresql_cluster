@@ -1,4 +1,6 @@
 # PostgreSQL High-Availability Cluster :elephant: :sparkling_heart:
+## Tambahan
+- `cluster_vip` = ip untuk lb. memebuat cluster master memiliki ip ke-2
 
 [<img src="https://github.com/vitabaks/postgresql_cluster/workflows/Ansible-lint/badge.svg?branch=master">](https://github.com/vitabaks/postgresql_cluster/actions?query=workflow%3AAnsible-lint)
 [<img src="https://github.com/vitabaks/postgresql_cluster/workflows/Yamllint/badge.svg?branch=master">](https://github.com/vitabaks/postgresql_cluster/actions?query=workflow%3AYamllint)
